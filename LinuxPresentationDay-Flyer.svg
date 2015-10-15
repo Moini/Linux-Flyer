@@ -21,6 +21,8 @@
    inkscape:export-filename="/media/sicher/maren/m23-Zeug/Kilux/Kielux_2015/LPD/LinuxPresentationDay-Flyer_300dpi.png"
    inkscape:export-xdpi="300.02237"
    inkscape:export-ydpi="300.02237">
+  <title
+     id="title15200">Linux Introduction Flyer</title>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -28,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.62004633"
-     inkscape:cx="415.52583"
-     inkscape:cy="319.58845"
+     inkscape:zoom="0.90780983"
+     inkscape:cx="497.23333"
+     inkscape:cy="954.0901"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-page="false"
      inkscape:snap-bbox="true"
@@ -15548,7 +15550,23 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>Linux Introduction Flyer</dc:title>
+        <cc:license
+           rdf:resource="http://www.gnu.org/licenses/gpl-3.0.en.html" />
+        <dc:date>2015-10-15</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Maren Hachmann</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>&quot;Understanding FOSS&quot; by Martin Owens, Tux by Larry Ewing, Numix Circle Icons by Numix Project</dc:source>
+        <dc:language>de, en</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Linux</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>An introductory document that describes what Linux is, how it is developed, where to get help, and why you should use it.</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -15570,7 +15588,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label=" Comic-Frames  - de"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient9155);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.91979611;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.27419356;marker:none;marker-start:none;marker-mid:none;marker-end:none;filter:url(#filter9127);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 230.73106,30.661963 C 161.72014,30.737396 92.70444,30.916525 23.708085,32.475652 23.03575,65.864712 24.010498,99.942709 23.605856,133.59897 22.951339,202.46279 23.724187,271.3261 24.243801,340.18523 24.786639,350.51743 21.942894,360.75528 21.276925,370.85874 30.429774,373.7124 40.673824,372.08266 50.23355,372.70684 104.25273,371.24645 158.31048,370.93749 212.32739,372.75203 256.67018,373.35485 301.01179,372.3625 345.35058,371.87638 346.19124,336.08455 345.31026,299.58744 345.48887,263.52439 345.1624,186.24928 345.46581,108.95717 344.22751,31.694669 330.8401,30.177704 316.62401,31.2247 302.95163,30.767499 278.87829,30.660139 254.8046,30.652651 230.73106,30.661963 Z"
@@ -58906,15 +58925,15 @@
          sodipodi:role="line"><tspan
            id="tspan9456"
            y="179.54897"
-           x="714.30023">Mitwirkende/-r</tspan></tspan><tspan
+           x="714.30023">Mitwirkende</tspan></tspan><tspan
          y="192.13745"
          x="714.30023"
          sodipodi:role="line"
-         id="tspan84207">fügt Funktionen</tspan><tspan
+         id="tspan84209">fügen Funktionen </tspan><tspan
          y="204.72592"
          x="714.30023"
          sodipodi:role="line"
-         id="tspan84209">hinzu</tspan></text>
+         id="tspan15208">hinzu</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.15200043px;line-height:124.00000095%;font-family:'Domestic Manners';-inkscape-font-specification:'Domestic Manners, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -58928,11 +58947,11 @@
          id="tspan9448"><tspan
            x="857.07361"
            y="126.07379"
-           id="tspan9450">Mitwirkende/-r</tspan></tspan><tspan
+           id="tspan9450">  Mitwirkende</tspan></tspan><tspan
          sodipodi:role="line"
          x="857.07361"
          y="138.66228"
-         id="tspan84205">verbessert Code</tspan></text>
+         id="tspan84205">verbessern Code</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.15200043px;line-height:124.00000095%;font-family:'Domestic Manners';-inkscape-font-specification:'Domestic Manners, Normal';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.83499998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -59373,7 +59392,7 @@
            id="use9586"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara9590">       In Kiel kann man sich bei Problemen an die Toppoint wenden (toppoint.de </flowPara><flowPara
+         id="flowPara9590">       In Kiel kann man sich bei Problemen an die Toppoint wenden (toppoint.de) </flowPara><flowPara
          id="flowPara9592">oder auf den Kieler Open Source und Linux Tagen Informationen sammeln.</flowPara><flowPara
          id="flowPara9598" /><flowPara
          id="flowPara9594">Bei Schwierigkeiten mit einzelnen Programmen oder einer Distribution wendet man sich am besten direkt an das entsprechende Projekt.</flowPara></flowRoot>    <text
@@ -59969,7 +59988,7 @@
            sodipodi:nodetypes="cc"
            inkscape:connector-curvature="0"
            id="path17204"
-           d="M 726.5462,1418.7108 C 754.54003,1420.1459 797.92445,1420.1295 827.2799,1419.0618"
+           d="M 726.5462,1418.7108 C 754.54003,1420.1459 775.31363,1418.999 804.66908,1417.9313"
            style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.03499997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
         <path
            sodipodi:nodetypes="cc"
@@ -59981,7 +60000,7 @@
            sodipodi:nodetypes="cc"
            inkscape:connector-curvature="0"
            id="path17208"
-           d="M 726.5462,1447.7306 C 769.74364,1446.9415 819.38435,1449.3942 862.72974,1447.0286"
+           d="M 726.5462,1447.7306 C 769.74364,1446.9415 795.07772,1449.9595 838.42311,1447.5939"
            style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.03499997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
         <text
            sodipodi:linespacing="140%"
@@ -59997,7 +60016,7 @@
              id="tspan17214"
              y="1417.0454"
              x="725.97552"
-             sodipodi:role="line">www.linuxmintusers.de</tspan><tspan
+             sodipodi:role="line">linuxmintusers.de</tspan><tspan
              id="tspan17216"
              y="1431.2583"
              x="725.97552"
@@ -60005,7 +60024,7 @@
              id="tspan17218"
              y="1445.4711"
              x="725.97552"
-             sodipodi:role="line">www.debian.org/index.de.html</tspan></text>
+             sodipodi:role="line">debian.org/index.de.html</tspan></text>
       </g>
       <g
          id="g17228">
@@ -60019,7 +60038,7 @@
            sodipodi:nodetypes="cc"
            inkscape:connector-curvature="0"
            id="path17232"
-           d="M 922.74877,1418.6933 C 947.79958,1417.3392 973.57063,1419.8443 994.70142,1420.0411"
+           d="M 922.74877,1418.6933 C 947.79958,1417.3392 952.09035,1418.7138 973.22114,1418.9106"
            style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.03499997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
         <path
            sodipodi:nodetypes="cc"
@@ -60034,14 +60053,14 @@
            x="922.51483"
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.15200043px;line-height:139.99999762%;font-family:'Domestic Manners';-inkscape-font-specification:'Domestic Manners, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
            xml:space="preserve"><tspan
+             id="tspan17240"
              y="1402.4807"
              x="922.51483"
-             id="tspan17238"
              sodipodi:role="line">de.opensuse.org</tspan><tspan
-             id="tspan17240"
              y="1416.6935"
              x="922.51483"
-             sodipodi:role="line">www.mageia.org</tspan><tspan
+             sodipodi:role="line"
+             id="tspan15212">mageia.org</tspan><tspan
              id="tspan17242"
              y="1430.9064"
              x="922.51483"
@@ -61663,7 +61682,7 @@
            x="0" /></flowRegion><flowPara
          id="flowPara16786">         In &lt;town&gt;, you can turn to &lt;LUG&gt; when you experience a problem with Linux.</flowPara><flowPara
          id="flowPara17919" /><flowPara
-         id="flowPara16788"></flowPara><flowPara
+         id="flowPara16788" /><flowPara
          id="flowPara17925">If you have difficulties with a specific program or distribution, you can also contact the corresponding open source project via their preferred support channels.</flowPara></flowRoot>    <text
        sodipodi:linespacing="124%"
        id="text16790"
@@ -62227,7 +62246,7 @@
            id="use8085"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara8087"></flowPara><flowPara
+         id="flowPara8087" /><flowPara
          id="flowPara18040">Work on free software projects happens online, in a community of committed developers where activities can be coordinated. These communities have people who control which modifications get into public releases.</flowPara><flowPara
          id="flowPara8089" /></flowRoot>    <g
        id="g17509">
