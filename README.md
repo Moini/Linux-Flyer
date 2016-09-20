@@ -3,9 +3,9 @@ A flyer introducing Linux created for Linux Presentation Day 2015 in Germany. It
 
 It's intended to be exported in two halves for double-sided printing on A4 (or it could be used as a poster).
 
-To view file correctly, open with Inkscape. You will need the following fonts:
-[Lenka](https://fontlibrary.org/en/font/lenka-stabilo)
-[Domestic Manners](http://ftp.de.debian.org/debian/pool/main/t/ttf-dustin/ttf-dustin_20030517.orig.tar.gz)
+To view file correctly, open with Inkscape. You will need the following fonts:  
+[Lenka](https://fontlibrary.org/en/font/lenka-stabilo)  
+Domestic Manners: [from Debian Archives](http://ftp.de.debian.org/debian-archive/debian/pool/main/t/ttf-dustin/ttf-dustin_20030517.orig.tar.gz) / [from dafont](http://www.dafont.com/domestic-manners.font) / [from github](https://github.com/dustismo)
 
 Created with [Inkscape](https://inkscape.org).
 
